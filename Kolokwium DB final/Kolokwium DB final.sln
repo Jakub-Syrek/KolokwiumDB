@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Kolokwium DB final", "Kolokwium DB final\Kolokwium DB final.sqlproj", "{D96CCF7D-6610-4FB4-A102-125E5BD5E3CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D96CCF7D-6610-4FB4-A102-125E5BD5E3CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D96CCF7D-6610-4FB4-A102-125E5BD5E3CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D96CCF7D-6610-4FB4-A102-125E5BD5E3CE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D96CCF7D-6610-4FB4-A102-125E5BD5E3CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D96CCF7D-6610-4FB4-A102-125E5BD5E3CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D96CCF7D-6610-4FB4-A102-125E5BD5E3CE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E380A554-FB59-48FA-BBF4-4B072B1D1EF2}
+	EndGlobalSection
+EndGlobal
