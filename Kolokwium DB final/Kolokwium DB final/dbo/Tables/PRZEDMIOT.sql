@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[PRZEDMIOT] (
+    [ID]                    INT            IDENTITY (1, 1) NOT NULL,
+    [NAZWA]                 NVARCHAR (250) NOT NULL,
+    [NAZWISKO_PROWADZACEGO] NVARCHAR (50)  NOT NULL,
+    PRIMARY KEY CLUSTERED ([ID] ASC)
+);
+
